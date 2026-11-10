@@ -1,0 +1,13 @@
+# Local competition data
+/datadays.csv
+/datadays_clean.csv
+
+# R and RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplots.pdf
+
+# macOS metadata
+.DS_Store
